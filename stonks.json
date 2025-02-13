@@ -1,3 +1,8 @@
 {
-  "stocks": ["CLSK", "NU", "SOFI"]
+  "stocks": [
+    "CLSK",
+    "NU",
+    "SOFI",
+    "TSLA"
+  ]
 }
