@@ -2,6 +2,11 @@
   "stocks": [
     "CLSK",
     "NU",
-    "SOFI"
+    "SOFI",
+    "CRSP",
+    "HOOD",
+    "GRAB",
+    "OSCR",
+    "BBAI"
   ]
 }
